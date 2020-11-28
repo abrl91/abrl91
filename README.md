@@ -21,6 +21,17 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abrl91)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- icons with padding -->
+
+[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
+[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
+
+<!-- icons without padding -->
+
+[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
+[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
+[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
+
 [1]: https://twitter.com/BarletzA52
 [2]: https://github.com/abrl91
 [3]: https://www.linkedin.com/in/amitbarletz/
