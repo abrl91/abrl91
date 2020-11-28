@@ -5,8 +5,8 @@ My name is Amit Barletz. I am full stack developer who passionate about code and
 Recently, returned to a childhood hobby and started learning to play the piano again 🎹
 
 ![](https://img.shields.io/badge/CODE-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CODE-TypeScript-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/CODE-Node.js-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CODE-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CODE-Node.js-informational?style=flat&logo=node-dot-js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CODE-mongoDB-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CODE-Angular-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CODE-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
