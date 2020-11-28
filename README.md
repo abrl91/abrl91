@@ -19,7 +19,7 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abrl91&show_icons=true)(https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abrl91&show_icons=true)
 
 
 <!-- icons with padding -->
