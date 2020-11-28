@@ -4,7 +4,7 @@ My name is Amit Barletz. I am full stack developer who passionate about code and
 
 I am also a blog writter: https://syntactic-sugar.netlify.app/
 
-Recently, returned to a childhood hobby and started learning to play the piano again 🎹
+Recently, I returned to a childhood hobby and started learning to play the piano again 🎹
 
 You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
