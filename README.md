@@ -2,7 +2,7 @@
 
 My name is Amit Barletz. I am full stack developer who passionate about code and learning new stuff 🙇🏻‍♀️
 
-I am also a blog writter: https://syntactic-sugar.netlify.app/
+I am also a blogger at https://syntactic-sugar.netlify.app/
 
 Recently, I returned to a childhood hobby and started learning to play the piano again 🎹
 
