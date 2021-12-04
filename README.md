@@ -4,9 +4,7 @@ My name is Amit Barletz. I am full stack developer who passionate about code and
 
 I'm a blogger at https://syntactic-sugar.netlify.app/
 
-Recently, I returned to a childhood hobby and started learning to play the piano again 🎹
-
-You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
+My work-github: https://github.com/amitikal
 
 
 ![](https://img.shields.io/badge/CODE-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -17,8 +15,6 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 ![](https://img.shields.io/badge/LIBRARY-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CODE-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CODE-grapgql-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
-
-
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abrl91&show_icons=true)
@@ -37,6 +33,6 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 [1]: https://twitter.com/BarletzA52
 [2]: https://github.com/abrl91
-[3]: https://github.com/amitikal
-[4]: https://www.linkedin.com/in/amitbarletz/
+[3]: https://www.linkedin.com/in/amitbarletz/
+
 
