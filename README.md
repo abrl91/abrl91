@@ -37,5 +37,6 @@ You can find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 
 [1]: https://twitter.com/BarletzA52
 [2]: https://github.com/abrl91
-[3]: https://www.linkedin.com/in/amitbarletz/
+[3]: https://github.com/amitikal
+[4]: https://www.linkedin.com/in/amitbarletz/
 
