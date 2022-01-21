@@ -36,3 +36,4 @@ My work-github: https://github.com/amitikal
 [3]: https://www.linkedin.com/in/amitbarletz/
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrl91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
