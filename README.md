@@ -4,8 +4,6 @@ My name is Amit Barletz. I am full stack developer who passionate about code and
 
 I'm a blogger at https://syntactic-sugar.netlify.app/
 
-My work-github: https://github.com/amitikal
-
 
 ![](https://img.shields.io/badge/CODE-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CODE-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
