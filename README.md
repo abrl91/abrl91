@@ -13,6 +13,9 @@ I'm a blogger at https://syntactic-sugar.netlify.app/
 ![](https://img.shields.io/badge/LIBRARY-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CODE-Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/CODE-grapgql-informational?style=flat&logo=graphql&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CODE-prisma-informational?style=flat&logo=prisma&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CODE-postgres-informational?style=flat&logo=postgres&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/CODE-nestjs-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a)
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abrl91&show_icons=true)
