@@ -18,9 +18,6 @@ I'm a blogger at https://syntactic-sugar.netlify.app/
 ![](https://img.shields.io/badge/CODE-nestjs-informational?style=flat&logo=nestjs&logoColor=white&color=2bbc8a)
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abrl91&show_icons=true)
-
-
 <!-- icons with padding -->
 
 [1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
