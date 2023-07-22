@@ -30,10 +30,3 @@ I'm a blogger at https://syntactic-sugar.dev
 [1]: https://twitter.com/BarletzA52
 [2]: https://github.com/abrl91
 [3]: https://www.linkedin.com/in/amitbarletz/
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abrl91&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-<a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=abrl91&show_icons=true&line_height=27&count_private=true&theme=midnight-blue" alt="Amit Baletz's GitHub Stats" />
-</a>
